@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "type": "practical",
+    "code": "21EC57P",
+    "subject": "Communication Systems Laboratory",
+    "exam_date": "2026-11-12",
+    "exam_time": "To be announced",
+    "session": "To be announced",
+    "venue": "I103"
+  },
+  {
+    "id": 2,
+    "type": "practical",
+    "code": "21EC58P",
+    "subject": "Digital Signal Processing Laboratory",
+    "exam_date": "2026-11-13",
+    "exam_time": "To be announced",
+    "session": "To be announced",
+    "venue": "I202"
+  },
+  {
+    "id": 3,
+    "type": "practical",
+    "code": "21HE54IT",
+    "subject": "Microprocessor and Microcontroller (Integrated Course)",
+    "exam_date": "2026-11-16",
+    "exam_time": "To be announced",
+    "session": "To be announced",
+    "venue": "I201"
+  },
+  {
+    "id": 4,
+    "type": "theory",
+    "code": "21EC53T-26",
+    "subject": "TRANSMISSION LINES AND RF SYSTEMS",
+    "exam_date": "2026-11-21",
+    "exam_time": "FN",
+    "session": "FN - Forenoon",
+    "venue": "As per college hall allotment"
+  },
+  {
+    "id": 5,
+    "type": "theory",
+    "code": "21EC51T",
+    "subject": "DIGITAL COMMUNICATION",
+    "exam_date": "2026-11-25",
+    "exam_time": "FN",
+    "session": "FN - Forenoon",
+    "venue": "As per college hall allotment"
+  },
+  {
+    "id": 6,
+    "type": "theory",
+    "code": "21EC555PT",
+    "subject": "BIO-MEDICAL INSTRUMENTATION",
+    "exam_date": "2026-11-28",
+    "exam_time": "FN",
+    "session": "FN - Forenoon",
+    "venue": "As per college hall allotment"
+  },
+  {
+    "id": 7,
+    "type": "theory",
+    "code": "21AI651PT",
+    "subject": "ADVANCED PYTHON PROGRAMMING",
+    "exam_date": "2026-12-02",
+    "exam_time": "FN",
+    "session": "FN - Forenoon",
+    "venue": "As per college hall allotment"
+  },
+  {
+    "id": 8,
+    "type": "theory",
+    "code": "21EC52T-26",
+    "subject": "DIGITAL SIGNAL PROCESSING",
+    "exam_date": "2026-12-05",
+    "exam_time": "FN",
+    "session": "FN - Forenoon",
+    "venue": "As per college hall allotment"
+  },
+  {
+    "id": 9,
+    "type": "theory",
+    "code": "21HE54IT",
+    "subject": "MICROPROCESSOR AND MICROCONTROLLER",
+    "exam_date": "2026-12-09",
+    "exam_time": "FN",
+    "session": "FN - Forenoon",
+    "venue": "As per college hall allotment"
+  },
+  {
+    "id": 10,
+    "type": "theory",
+    "code": "21EC02HT",
+    "subject": "MACHINE LEARNING TECHNIQUES AND APPLICATIONS",
+    "exam_date": "2026-12-11",
+    "exam_time": "FN",
+    "session": "FN - Forenoon",
+    "venue": "As per college hall allotment"
+  },
+  {
+    "id": 11,
+    "type": "theory",
+    "code": "21AI31T",
+    "subject": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+    "exam_date": "2026-12-14",
+    "exam_time": "FN",
+    "session": "FN - Forenoon",
+    "venue": "As per college hall allotment"
+  }
+]

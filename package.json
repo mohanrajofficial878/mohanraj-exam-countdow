@@ -1,0 +1,12 @@
+{
+  "name": "mohanraj-animated-exam-portal",
+  "version": "1.0.2",
+  "description": "Animated practical and theory exam timetable with live clock and countdown",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
